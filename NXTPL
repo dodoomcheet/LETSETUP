@@ -1,0 +1,4 @@
+selenium method makes setted browsers work too slow.
+must import other packages that make it possible to control mouse and keyboard
+and LETSETUP must be able to scan monitor and set up browsers and programs (ex. page login)
+TO DO THAT, must develop artificial intelligence
