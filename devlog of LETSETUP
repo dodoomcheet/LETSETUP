@@ -24,3 +24,17 @@ AI MN/ML API.. is it free?
 by chat gpt. it is free for certain duration but eventually it costs money.
 okay...
 now my target is to make VISION AI thing.
+
+-2025.06.29-
+developing AI is not easy
+it is not *sub*target but *MAIN*target of this developing programming.
+to solve maintarget...
+heve to make image recognization algoritm(hereinafter IRA).
+okay...
+here are IRA properties.
+1. IRA can be input images(printScreened monitor images)
+2. IRA can identify objects(ex. which one is webbroser and which one is background)
+3. IRA can learn(IRA should be judged if it identifies correctly)
+4. IRA can serve output(after identification)
+the third part gotta be difficult to solve.
+i dont know is it possible, but im gonna try making it by python
