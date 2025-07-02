@@ -51,6 +51,8 @@ image input part also should be developed.
 -2025.07.02-
 perfect mosaiking algoritm will not be made.
 i will use scaling function of pillow package.
+I just made function that mosaike an image and extract its colors(RGBB) and save them array named "resizedPixels"
+now, part that should be built is part that comparing new resized picture pixels to resized default-background picture pixels(already extracted and saved as an array named "bgdPixels")
 
 
 
