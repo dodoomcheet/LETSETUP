@@ -48,11 +48,11 @@ next job is to complete part of HL2!
 while processing IRA whole part,
 image input part also should be developed.
 
-
-
-
-
-
+-2025.07.02-
+perfect mosaiking algoritm will not be made.
+instead, I will make an algoritm resembling anti-aliasing effect.
+it will divide an image into divisible numbers of pieces
+in A piece, It will happen that two pixels placed distantly are selected and filled with average color. 
 
 
 
