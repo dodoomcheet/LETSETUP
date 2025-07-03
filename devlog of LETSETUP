@@ -54,6 +54,18 @@ i will use scaling function of pillow package.
 I just made function that mosaike an image and extract its colors(RGBB) and save them array named "resizedPixels"
 now, part that should be built is part that comparing new resized picture pixels to resized default-background picture pixels(already extracted and saved as an array named "bgdPixels")
 
+-2025.07.03-
+comparing part is completed. also it shows which parts are diffrent from bgdPixels using □, ■
+here is example.
+
+□ □ □ □ □ □ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+□ □ □ □ □ □ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+□ □ □ □ □ □ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+□ □ □ □ □ □ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+□ □ □ □ □ □ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+□ □ □ □ □ □ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+□ □ □ □ □ □ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
+□ □ □ □ □ □ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 
 
 
