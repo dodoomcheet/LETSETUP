@@ -67,6 +67,9 @@ here is example.
 □ □ □ □ □ □ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 □ □ □ □ □ □ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
 
+found some dificiencies
+PIL's RESIZING dosent include EXACT color code.
+i gotta make one instead of using it
 
 
 
